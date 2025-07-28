@@ -1,6 +1,6 @@
 dynamic:
     value: "aap_config"
     count: "10"
-    bank_name: "HDFC"
+    bank_name: "HDFC Bank"
     branch:
         name: Bangalore
