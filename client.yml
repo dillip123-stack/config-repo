@@ -1,5 +1,6 @@
 dynamic:
-    value: "config"
+    value: "configuration"
     count: "10"
+    bank_name: "HDFC"
     branch:
         name: Bangalore
