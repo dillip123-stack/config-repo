@@ -1,5 +1,5 @@
 dynamic:
-    value: "configuration"
+    value: "aap_config"
     count: "10"
     bank_name: "HDFC"
     branch:
